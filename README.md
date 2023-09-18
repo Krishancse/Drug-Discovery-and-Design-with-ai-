@@ -1,8 +1,9 @@
 # Drug-Discovery-and-Design-with-ai
 
-Certainly! Here's the GitHub README file for the "Drug Discovery and Design" project with your GitHub username (krishancse) and email address (kantkrishan0205@gmail.com) included:
 
-```markdown
+
+
+
 # Drug Discovery and Design with AI and ML
 
 ![Drug Discovery](drug_discovery_image.jpg)

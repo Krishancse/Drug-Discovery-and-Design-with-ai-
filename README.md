@@ -3,7 +3,6 @@
 
 
 
-
 # Drug Discovery and Design with AI and ML
 
 ![Drug Discovery](drug_discovery_image.jpg)
